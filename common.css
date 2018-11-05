@@ -1,0 +1,63 @@
+/* created by Jinlei Li, November 4th, 2018 */
+
+h1, h2, h3{
+	margin: 10px;
+	padding: 10px;
+	font-weight: bold;
+	margin-left: 10px;
+	font-family:courier;
+}
+
+h2{
+	font-size: x-large;
+	font-family:calibri;
+}
+
+h3{
+	font-size: large;
+}
+
+ul{
+	padding: 25px;
+	list-style-type: square;
+	margin: 10px;
+	padding: 10px;
+}
+
+spam, li {
+	margin: 0px;
+	padding: 10px;
+}
+
+th, td {
+padding: 0.3em 0.3em;
+}
+
+body{
+	margin:0px;
+	padding:0px;
+	background-color: #cccccc;
+	font-family:cambia;
+}
+
+p{
+	font-weight: normal;
+	font-size:120%;
+	font-family:calibri;
+}
+
+a:link{
+	color:  green;
+}
+
+a:visited{
+	color: green;
+}
+
+a:hover{
+	color: red;
+}
+
+a:active{
+	color: yellow;
+}

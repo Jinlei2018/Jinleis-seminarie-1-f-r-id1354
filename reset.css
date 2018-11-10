@@ -1,7 +1,7 @@
 /* Downloaded from http://meyerweb.com/eric/thoughts/2007/05/01/reset-reloaded/ */
 /* modified by Jinlei Li */
 
-html, body, div, span, h1, h2, h3, h4, h5, h6, p, em, font, img,
+html, body, div, span, h1, h2, h3, h4, h5, h6, a, p, em, font, img,
 dl, dt, dd, ol, ul, li, table, caption, thead, tr, th, td {
 	margin: 0;
 	padding: 0;
